@@ -1,0 +1,7 @@
+Feature,Type,Univariate AUC
+mean_radius (raw),Raw,0.8698
+radial_border_texture (engineered),Engineered,0.802
+radial_concavity (engineered),Engineered,0.6513
+tumor_size_log (raw),Raw,0.5923
+smoothness (raw),Raw,0.5189
+concavity (raw),Raw,0.5092
